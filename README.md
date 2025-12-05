@@ -11,7 +11,7 @@
 - /products
 - /prducts/{id}
 - /products?category=
-- /products/name=
+- /products?name=
 ### POST
 - /products
 ### DELETE
